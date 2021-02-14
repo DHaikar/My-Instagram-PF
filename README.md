@@ -183,19 +183,5 @@ else {
             <div class="else6">💝</div>
             <div class="else7">💩</div>
             <div class="else8">🎊</div>
-            <audio src="https://www.dropbox.com/s/sezspnigky6b129/Clapping_Sound.mp3?dl=1"/lovemelikeyoudonotification-9607.mp3","  loop="loop" id="music">
-  </audio>
-        <script>
-        
-  var music = document.getElementById("music")
-  music.load();
-  document.addEventListener("click", function() {
-  music.play()
-  })
-  </script> 
-  <script>
-      alert ("Please Touch the WELCOME")
-  </script>
-
-    </body>
+   </body>
 </html>
